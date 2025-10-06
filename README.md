@@ -4,7 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/a2yt3f3kutm9prstg27zdiyiw)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/a2yt3f3kutm9prstg27zdiyiw)
+
 
 <!--
 **Morph23/Morph23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
